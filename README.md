@@ -1,4 +1,4 @@
-### Probably talking to my debugging duck at the moment. 🦆
+### Status: Talking to my debugging duck at the moment and seeking for job oppotunities! 🦆
 
 
 <!--
