@@ -1,5 +1,9 @@
 ### Status: Talking to my debugging duck! 🦆
 
+Quack Quack.
+
+Translation: "Hey - welcome to my page! Feel free to ask me any questions, i'm always striving to improve and love to help people through the means of technology."
+
 
 <!--
 **ShahSheel/shahsheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
