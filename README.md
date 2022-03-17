@@ -1,10 +1,10 @@
 Hi! 🦆
 
-I'm a Full-Stack developer (Mostly 60% backend and 40% frontend) who loves writing code to make an impact. Rock collector, duck lover and can never say no to chocolate
+I'm a Full-Stack developer (60% backend and 40% frontend) who loves writing code to make an impact. Rock collector, duck lover and can never say no to chocolate
 
 
-**Core skills include:
-**
+Core skills include:
+
 
 Backend:
 * Laravel 6, 7, 
