@@ -1,21 +1,18 @@
-### Status: Talking to my debugging duck! 🦆
+Hi! 🦆
 
-Quack Quack.
-
-Translation: "Hey - welcome to my page! Feel free to ask me any questions, i'm always striving to improve and love to help people through the means of technology."
+I'm a Full-Stack developer (Mostly 60% backend and 40% frontend) who loves writing code to make an impact. Rock collector, duck lover and can never say no to chocolate
 
 
-<!--
-**ShahSheel/shahsheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Core skills include:
+**
 
-Here are some ideas to get you started:
+Backend:
+* Laravel 6, 7, 
+* Migrating Laravel 7 to 8
+* PHP 7
+* Java 8, 11
+* TDD and BDD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+* VueJS
+* The normie stuff of every frontend dev: HTML5, CSS, SASS, JS
